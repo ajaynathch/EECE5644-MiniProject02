@@ -1,6 +1,6 @@
-# HealthGuard Insurance — Data-Driven Premium Pricing
+# Mini Project #02
 
-**EECE 6544: Introduction to Machine Learning and Pattern Recognition — Mini Project #02 (Summer 2026)**
+**EECE 6544: Introduction to Machine Learning and Pattern Recognition (Summer 2026)**
 
 A junior data-science engagement for **HealthGuard Insurance**. The company prices plans from outdated
 actuarial tables, causing it to **underprice high-risk customers** (losses) and **overprice low-risk
